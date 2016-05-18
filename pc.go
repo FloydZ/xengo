@@ -13,7 +13,7 @@ import (
 	"strconv"
 )
 
-var tempDir = "/home/pr0gramming/Dokumente"
+var tempDir = "/tmp"
 
 // struktur die alle wichtigen dynamischen Werte beinhaltet, dH dauernd initalisieren
 type PCDynamic struct {
